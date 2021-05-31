@@ -14,7 +14,11 @@ If the size of the array is negative or if any element in the array is negative,
 
 ### Input / Output
 
-![image](https://github.com/99004484-Rounak/GenesisJavaCore/blob/main/Activity1/OP/Q1.jpg?raw=true)
+![image](https://github.com/99004484-Rounak/GenesisJavaCore/blob/main/Activity1/OP/Q1.jpg)
+
+![image](https://github.com/99004484-Rounak/GenesisJavaCore/blob/main/Activity1/OP/Q1-2.jpg)
+
+![image](https://github.com/99004484-Rounak/GenesisJavaCore/blob/main/Activity1/OP/Q1-3.jpg)
 
 ### 2. Find the Greater id
 Read the question carefully and follow the input and output format.
@@ -45,3 +49,9 @@ Include a function named findCricketerId(int array[], int size, int score) whose
 void.
 
 The output array is stored in a global variable named cricketer.
+
+### Input / Output
+
+![image](https://github.com/99004484-Rounak/GenesisJavaCore/blob/main/Activity1/OP/Q2.jpg)
+
+![image](https://github.com/99004484-Rounak/GenesisJavaCore/blob/main/Activity1/OP/Q2-2.jpg)
